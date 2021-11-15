@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alex-digital-hawks
+- 👀 I’m interested in: React, Next JS, PHP & WordPress
+- 🌱 I’m currently learning: Shopify CLI & React Native
